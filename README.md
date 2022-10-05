@@ -13,7 +13,7 @@ create map objects to store key/value pairs, move values from one array to anoth
 reusable classes, and use arrow functions and generators. Plus, learn how to handle asynchronous data and tasks with promises, fetch, and the 
 async/await syntax.
 
-The earning objectives as stated are:
+The learning objectives as stated are:
 
 - What is ECMAScript?
 - Writing and searching strings
