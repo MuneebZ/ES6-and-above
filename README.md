@@ -1,7 +1,9 @@
 # ES6_and_above
 Personal notes for ECMAScript 6+
 
-These notes follow the LinkedIn learning course "Learning ECMAScript 6+ (ES6+)" by Eve Porcello. From the course, the description reads as follows:
+These notes follow the LinkedIn learning course "Learning ECMAScript 6+ (ES6+)" by Eve Porcello. 
+
+From the course, the description reads as follows:
 
 ECMAScript—the standardized version of JavaScript—keeps getting more powerful. ES6 was a large leap forward, introducing features that changed how 
 developers structure programs. But every year since there have been updates and additional improvements. This course helps you create modern 
